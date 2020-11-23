@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Photon File Validator
+Comment=Validate sliced photon files
+Exec=java -jar /opt/photonFileValidator/PhotonFileValidator.jar
+Icon=/opt/photonFileValidator/PhotonFileValidator.png
+Terminal=false
+Type=Application
+MimeType=application/cpplb
+PrefersNonDefaultGPU=true

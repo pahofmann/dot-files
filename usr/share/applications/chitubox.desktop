@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Chitubox
+Comment=Slicing for resin printing
+Exec=/opt/chitubox/AppRun
+Icon=/opt/chitubox/CHITUBOX.ico
+Terminal=false
+Type=Application
+MimeType=application/sla
+PrefersNonDefaultGPU=true
