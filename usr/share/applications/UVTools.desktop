@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=UVTools
+Comment=Validate sliced photon files
+Exec=/opt/uvtools/UVTools
+Icon=/opt/uvtools/uvtools.png
+Terminal=false
+Type=Application
+MimeType=application/sla
+PrefersNonDefaultGPU=true
