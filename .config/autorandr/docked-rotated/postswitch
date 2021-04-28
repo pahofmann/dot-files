@@ -1,0 +1,5 @@
+#!/bin/bash
+unlink /home/patrick/.config/conky
+ln -s /home/patrick/.config/conky-docked /home/patrick/.config/conky
+cd /home/patrick/.config/conky
+bash start_conky.sh
