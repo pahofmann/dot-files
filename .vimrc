@@ -15,3 +15,4 @@ runtime! archlinux.vim
 " and configure vim to your own liking!
 syntax on
 set tabstop=2
+set number
